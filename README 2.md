@@ -1,0 +1,2 @@
+# SimpleQuickPlayerView
+基于QuickPlayer播放器提供的Flutter页面
